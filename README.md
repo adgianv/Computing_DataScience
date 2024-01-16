@@ -2,4 +2,4 @@
 
 - Python tasks: Funcitons, Classes, Libraries, Unit Testing, APIs
 - SQL Tasks
-- Machine Learning Project
+- Machine Learning Project with efficient Pipeline
